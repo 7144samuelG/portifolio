@@ -9,7 +9,7 @@ const works = [
       
    },
    {
-      title: "Uber Clone",
+      title: "sgn-jackson-hotel",
       description: "A fully customized hotel website",
       codeLink: "https://github.com/7144samuelG/sgn-jackson-hotel",
       projectLink:
