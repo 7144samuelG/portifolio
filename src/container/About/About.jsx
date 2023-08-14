@@ -5,12 +5,7 @@ import { images } from "../../constants";
 import { AppWrap, MotionWrap } from "../../wrapper";
 function About() {
    const abouts = [
-      {
-         title: "SWE Intern",
-         description:
-            "Working in a range of tech stacks of ReactJS in the front end, SpringBoot and Java in the back end, and Jenkins for CI/CD Pipelines.",
-         imageUrl: images.about01,
-      },
+      
       {
          title: "Full-Stack Developer",
          description:

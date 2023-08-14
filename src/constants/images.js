@@ -86,7 +86,6 @@ export default {
    about03,
    about04,
    circle,
-
    adidas,
    amazon,
    asus,
