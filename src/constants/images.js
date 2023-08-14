@@ -39,7 +39,7 @@ import me from "../assets/sam.jpg";
 import logo1 from "../assets/logo1.png";
 import nextjs from "../assets/nextjs.png";
 import tesla from "../assets/tesla.png";
-import uber from "../assets/Uber.jpeg";
+import uber from "../assets/uber.png";
 import gossip from "../assets/Gossip.png";
 import tenzies from "../assets/tenzies.png";
 import github from "../assets/github.png";
@@ -48,7 +48,7 @@ import linkedln from "../assets/linkedln.png";
 import medium from "../assets/medium.png";
 import topmate from "../assets/topmate.jpeg";
 import bracket from "../assets/Bracket.gif";
-import viber from "../assets/viber.gif";
+import viber from "../assets/viber.png";
 export default {
    bracket,
    viber,
