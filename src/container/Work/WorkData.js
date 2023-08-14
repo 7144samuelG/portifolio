@@ -2,7 +2,7 @@ import { images } from "../../constants";
 const works = [
    {
       title: " Tesla-Ecommerce",
-      description: "A fullstack webite with a modern UI",
+      description: "A fullstack webite with a modern ui",
       codeLink: "https://github.com/7144samuelG/tesla-ecommerce-app",
       projectLink: "https://tesla-ecommerce-app.vercel.app/",
       imageUrl: images.tesla,
