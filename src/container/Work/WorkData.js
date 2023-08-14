@@ -3,35 +3,27 @@ const works = [
    {
       title: " Tesla-Ecommerce",
       description: "A fullstack webite with a modern UI",
-      codeLink: "https://github.com/Tanishka-dev/Tesla-Ecommerce-Redux",
-      projectLink: "https://tesla-ecommerce.netlify.app/",
+      codeLink: "https://github.com/7144samuelG/tesla-ecommerce-app",
+      projectLink: "https://tesla-ecommerce-app.vercel.app/",
       imageUrl: images.tesla,
       
    },
    {
       title: "Uber Clone",
-      description: "A mobile application built in React Native",
-      codeLink: "https://github.com/Tanishka-dev/Uber-Clone-React-Native",
+      description: "A fully customized hotel website",
+      codeLink: "https://github.com/7144samuelG/sgn-jackson-hotel",
       projectLink:
-         "https://expo.dev/@tanishka_yadav/clone-uber?serviceType=classic&distribution=expo-go",
+         "https://sgn-jackson-hotel.vercel.app/",
       imageUrl: images.uber,
       
    },
+
    {
-      title: "Bracket App",
-      description: "A social media app",
-      codeLink: "https://github.com/Tanishka-dev/Bracket-SMA-Reactjs",
+      title: "airbnb-clone",
+      description:"airbnb website",
+      codeLink: "https://github.com/7144samuelG/sgn-airbnb",
       projectLink:
-         "https://bracket-social.netlify.app/",
-      imageUrl: images.bracket,
-      
-   },
-   {
-      title: "Viber App",
-      description: "A chat app",
-      codeLink: "https://github.com/Tanishka-dev/Viber-Chat-App-Reactjs",
-      projectLink:
-         "https://viber-chat-app-reactjs.vercel.app/",
+         "sgn-airbnb.vercel.app/",
       imageUrl: images.viber,
       
    },
