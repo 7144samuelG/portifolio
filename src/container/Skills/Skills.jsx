@@ -64,8 +64,8 @@ function Skills() {
      
      
       {
-         name: "Technical Writer",
-         icon: images.writer,
+         name: "mySQL",
+         icon: images.mysql,
          bgColor: "#46364a",
       },
    ];

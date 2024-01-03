@@ -49,6 +49,10 @@ import medium from "../assets/medium.png";
 import topmate from "../assets/topmate.jpeg";
 import bracket from "../assets/Bracket.gif";
 import viber from "../assets/viber.png";
+import cloud from "../assets/cloud.png";
+import mysql from "../assets/download.png";
+import stream from "../assets/stream.png";
+import reactapp from "../assets/re.jpeg"
 export default {
    bracket,
    viber,
@@ -100,4 +104,8 @@ export default {
    tailwind,
    reactNative,
    medium,
+   cloud,
+   mysql,
+   stream,
+   reactapp
 };
